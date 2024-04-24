@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="0.025825000000000046">
+<testsuite name="example-1.spec.ts" timestamp="2024-04-24T18:54:59.864Z" hostname="chromium" tests="2" failures="0" skipped="0" time="1.922" errors="0">
+<testcase name="has title - 1" classname="example-1.spec.ts" time="0.793">
+</testcase>
+<testcase name="get started link - 1" classname="example-1.spec.ts" time="1.129">
+</testcase>
+</testsuite>
+<testsuite name="example-2.spec.ts" timestamp="2024-04-24T18:54:59.864Z" hostname="chromium" tests="2" failures="0" skipped="0" time="1.807" errors="0">
+<testcase name="has title - 2" classname="example-2.spec.ts" time="0.747">
+</testcase>
+<testcase name="get started link - 2" classname="example-2.spec.ts" time="1.06">
+</testcase>
+</testsuite>
+</testsuites>
