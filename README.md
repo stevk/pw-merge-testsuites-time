@@ -5,7 +5,7 @@ REPRO STEPS:
 4. `npx playwright test --shard=2/2`
 5. Move `report-1.zip` back into the `reports/blobs` directory.
 6. `npx playwright merge-reports --config merge.config.ts ./reports/blobs`
-7. Observe the `time` under `testsuites` in the merged junit report `reports/merged/report..xml`
+7. Observe the `time` under `testsuites` in the merged junit report `reports/merged/report.xml`
 
 Expected Result: `time="3.729"` The approximate total test time (with some floating point error)
 
